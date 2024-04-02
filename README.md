@@ -1,2 +1,3 @@
 # JSProjects
-This repository contains every project that I made with JavaScript, along with HTML, CSS and other APIs.
+
+Every project that I have done with the use of JavaScript while studying about web development are stored in this repository.
